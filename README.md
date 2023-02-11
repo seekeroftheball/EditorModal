@@ -1,3 +1,4 @@
+Author: https://github.com/seekeroftheball    https://gist.github.com/seekeroftheball
 # EditorModal
 A simple custom pop-up window in Unity.
 
